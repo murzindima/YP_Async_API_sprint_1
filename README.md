@@ -7,4 +7,4 @@ docker-compose -f docker-compose.yaml -f docker-compose.dev.yaml up
 http://localhost:8080/api/openapi
 
 ## Repository Link:
-https://github.com/IlyasDevelopment/Async_API_sprint_1
+https://github.com/murzindima/Async_API_sprint_1
